@@ -1,7 +1,7 @@
 // App.tsx
 import { useEffect, useState } from 'react';
 import styled from 'styled-components';
-import Memes from './Memes';
+import Memes from './components/Memes';
 import type { Meme } from './interfaces/memes';
 
 const MessageBox = styled.main`
