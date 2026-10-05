@@ -1,4 +1,3 @@
-// App.tsx
 import { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import Memes from './components/Memes';

@@ -1,4 +1,3 @@
-// Memes.tsx
 import { useState } from 'react';
 import styled from 'styled-components';
 import type { Meme } from '../interfaces/memes';
