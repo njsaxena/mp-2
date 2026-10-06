@@ -5,5 +5,5 @@ export interface Meme {
     width: number;
     height: number;
     box_count: number;
-    captions: string;
+    captions: number;
 }
